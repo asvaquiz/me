@@ -1,1 +1,2 @@
-This is just a sample repository, about to be made private soon
+This is just a sample repository, about to be made private soon <br>
+I Am Ishan Biswas, a future dev, and tech enthuastic...
